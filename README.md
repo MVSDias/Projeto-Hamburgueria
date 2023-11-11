@@ -34,7 +34,7 @@ O projeto conta com botões que usamos para mostrar todos os itens, aplicar desc
 No momento só as funcionalidades front-end.
 Mais um projeto do  <a href="https://rodolfomori.com.br/devclub/">DEVCLUB - Rodolfo Mori</a>.
 
-- [Acesse o projeto finalizado, online](https://maykbrito.github.io/devlinks)
+- [Acesse o projeto finalizado, online](https://mvsdias.github.io/Projeto-Hamburgueria/)
 
 
 
